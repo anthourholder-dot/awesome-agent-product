@@ -17,11 +17,13 @@ Only finished, user-facing products are listed. Frameworks, SDKs, agent librarie
 
 Native and cross-platform desktop applications for running, orchestrating, and reviewing agents.
 
+
 - [1Code](https://1code.dev) - An autonomous AI worker on your desktop.
 - [ActForge](https://www.actforge.com) - Desktop autonomous AI assistant.
 - [Agent Orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Agent IDE that enables you to manage fleets of coding agents.
 - [Agent Teams](https://github.com/777genius/agent-teams-ai) - Kanban workspace where agents take high-level commands, message each other, and review each other's work.
 - [Agentastic](https://agentastic.dev) - Terminal-first multi-agent IDE for Mac.
+- [aiFetchly](https://github.com/robertzengcn/aiFetchly) - Open-source desktop AI agent for business automation: lead generation, knowledge library RAG, outreach, and scheduled workflows. Runs on Windows, macOS, Linux.
 - [Aizen](https://aizen.win/) - Bring order to your repos. Switch worktrees, not windows.
 - [Alma](https://alma.now) - Elegant AI provider orchestration desktop app.
 - [Ami](https://ami.dev) - Run coding agents on your desktop without breaking your flow.
