@@ -17,7 +17,6 @@ Only finished, user-facing products are listed. Frameworks, SDKs, agent librarie
 
 Native and cross-platform desktop applications for running, orchestrating, and reviewing agents.
 
-
 - [1Code](https://1code.dev) - An autonomous AI worker on your desktop.
 - [ActForge](https://www.actforge.com) - Desktop autonomous AI assistant.
 - [Agent Orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Agent IDE that enables you to manage fleets of coding agents.
